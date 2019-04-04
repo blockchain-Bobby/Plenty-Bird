@@ -1,4 +1,8 @@
-# FlapPy-Bird
+# Plenty-Bird
+
+Forked from FlapPy-Bird
+
+Fun Little Proof of Concept for Python + Gaming Intergration with Plenteum App Services
 
 Python 3 implemention of FlappyBird game using [Arcade Library](http://arcade.academy/)
 
@@ -13,6 +17,8 @@ and then you can run the game using the command
 
 * [ ] Train my [Neural Network](https://github.com/iJohnMaged/Simple-NeuralNetwork-Py)
 implemention to play the game.
+
+* update documents according to Plenteum Proof of Concep
 
 ### Screenshots
 
